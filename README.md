@@ -70,7 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Resources
 
-Help from Chris Escobedo wiht CORS
+Help from Chris Escobedo with CORS
 Worked with Mavrick Watts and Ruben Espino
 
 ### DB SQLITE https://github.com/KenzieAcademy/django-rest-lorihenderson/pull/1
